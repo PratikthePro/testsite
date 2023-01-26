@@ -1,0 +1,13 @@
+header{
+    font-family: Consolas;
+    font-size: 25px;
+    color: yellow;
+}
+
+table tr td a{
+    text-decoration: none;
+}
+
+body{
+    background-color: darkgreen;
+}
